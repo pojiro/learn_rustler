@@ -24,3 +24,6 @@ learn_rustler-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Rustler NIF.so
+/priv/native/
